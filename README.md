@@ -16,10 +16,10 @@
       <main>
         <p>La présente politique de confidentialité décrit comment l’application <strong>Cheers</strong> (ci-après « l’Application ») gère les informations de ses utilisateurs.</p>
 
-        <h2 id="collecte">1. Collecte des informations</h2>
+        <h2>1. Collecte des informations</h2>
         <p>L’Application <strong>ne collecte pas de données personnelles nominatives</strong> (nom, adresse e‑mail, etc.) sauf si l’utilisateur les fournit volontairement via un formulaire de contact ou un achat intégré.</p>
 
-        <h2 id="utilisation">2. Utilisation des données</h2>
+        <h2>2. Utilisation des données</h2>
         <p>Les informations éventuellement collectées sont utilisées uniquement pour&nbsp;:</p>
         <ul>
           <li>Fournir et améliorer l’Application</li>
@@ -28,16 +28,16 @@
         </ul>
         <p>Aucune donnée n’est vendue, louée ou partagée avec des tiers à des fins commerciales.</p>
 
-        <h2 id="paiements">3. Paiements intégrés</h2>
+        <h2>3. Paiements intégrés</h2>
         <p>Les achats intégrés sont traités de manière sécurisée par <strong>Google Play Billing</strong>. L’Application ne conserve pas les informations de paiement (numéro de carte, etc.).</p>
 
-        <h2 id="publicite">4. Publicité</h2>
+        <h2>4. Publicité</h2>
         <p>L’Application <strong>ne diffuse pas de publicités</strong>.</p>
 
-        <h2 id="securite">5. Sécurité</h2>
+        <h2>5. Sécurité</h2>
         <p>Nous mettons en œuvre les mesures nécessaires pour protéger vos informations contre tout accès, modification ou divulgation non autorisé.</p>
 
-        <h2 id="droits">6. Droits des utilisateurs</h2>
+        <h2>6. Droits des utilisateurs</h2>
         <p>Vous pouvez nous contacter à tout moment pour&nbsp;:</p>
         <ul>
           <li>Demander la suppression des données vous concernant</li>
@@ -45,7 +45,7 @@
         </ul>
         <p>Contact&nbsp;: <a href="mailto:victor.chamontin@gmail.com">victor.chamontin@gmail.com</a></p>
 
-        <h2 id="modifs">7. Modifications</h2>
+        <h2>7. Modifications</h2>
         <p>Nous pouvons mettre à jour cette politique si nécessaire. Toute modification sera publiée dans l’Application et/ou sur cette page.</p>
       </main>
       <footer>
